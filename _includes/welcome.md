@@ -1,15 +1,15 @@
 # Benvenuto
 
-Ci sono molte informazioni datate sul Web che portano gli utenti PHP fuori strada, propagando cattive pratiche e cattivo
-codice. Deve finire. _PHP: La Retta Via_ è un manuale facile da leggere per migliori pratiche di PHP, standard di
-codifica accettati e link a tutorial autoritari sparsi per il Web e a quelle che gli autori pensano essere attualmente
-le migliori pratiche.
+Sul Web ci sono molte informazioni datate che portano gli utenti PHP fuori strada, propagando cattive abitudini e
+codice non sicuro. _PHP: La Retta Via_ è una guida di riferimento veloce con le migliori tecniche di sviluppo PHP,
+gli standard di scrittura del codice accettati, link a tutorial autorevoli sparsi per il Web e quelle che secondo
+gli autori sono le migliori tecniche.
 
-_Non c'è un solo modo corretto di usare PHP_. Questo sito Web mira a introdurre ai nuovi sviluppatori PHP alcuni
-argomenti che potrebbero non prendere in considerazione finché non è troppo tardi, e mira a fornire ai professionisti
-alcune idee fresche riguardo procedure che hanno eseguito per anni senza mai riconsiderarle. Questo sito Web inoltre
+_Non c'è un solo modo corretto di usare PHP_. Questo sito Web mira a presentare ai nuovi sviluppatori PHP alcuni
+argomenti che potrebbero non prendere mai in considerazione, se non troppo tardi, e mira a fornire ai professionisti
+alcune idee fresche riguardo procedure che hanno usato per anni senza mai aggiornarle. Questo sito Web inoltre
 non ti dirà mai quali strumenti usare, ma invece offrirà suggerimenti per opzioni multiple, spiegando le differenze
-nell'approccio e nei casi d'uso ove possibile.
+di approccio nei diversi casi.
 
 Questo è un documento in sviluppo e continuerà a essere aggiornato con nuove informazioni utili ed esempi non appena
 saranno disponibili.
